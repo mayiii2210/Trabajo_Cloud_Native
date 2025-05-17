@@ -544,11 +544,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BackEnd-Grupo5\\ExtraHours.CORE\\ExtraHours.CORE.csproj",
+      "projectUniqueName": "D:\\Trabajo_Cloud_Native\\ExtraHours.CORE\\ExtraHours.CORE.csproj",
       "projectName": "ExtraHours.CORE",
-      "projectPath": "D:\\BackEnd-Grupo5\\ExtraHours.CORE\\ExtraHours.CORE.csproj",
+      "projectPath": "D:\\Trabajo_Cloud_Native\\ExtraHours.CORE\\ExtraHours.CORE.csproj",
       "packagesPath": "C:\\Users\\MAYE SALAS\\.nuget\\packages\\",
-      "outputPath": "D:\\BackEnd-Grupo5\\ExtraHours.CORE\\obj\\",
+      "outputPath": "D:\\Trabajo_Cloud_Native\\ExtraHours.CORE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

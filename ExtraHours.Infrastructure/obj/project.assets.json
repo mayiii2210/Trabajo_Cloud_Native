@@ -5244,11 +5244,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BackEnd-Grupo5\\ExtraHours.Infrastructure\\ExtraHours.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Trabajo_Cloud_Native\\ExtraHours.Infrastructure\\ExtraHours.Infrastructure.csproj",
       "projectName": "ExtraHours.Infrastructure",
-      "projectPath": "D:\\BackEnd-Grupo5\\ExtraHours.Infrastructure\\ExtraHours.Infrastructure.csproj",
+      "projectPath": "D:\\Trabajo_Cloud_Native\\ExtraHours.Infrastructure\\ExtraHours.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\MAYE SALAS\\.nuget\\packages\\",
-      "outputPath": "D:\\BackEnd-Grupo5\\ExtraHours.Infrastructure\\obj\\",
+      "outputPath": "D:\\Trabajo_Cloud_Native\\ExtraHours.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5269,8 +5269,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\BackEnd-Grupo5\\ExtraHours.CORE\\ExtraHours.CORE.csproj": {
-              "projectPath": "D:\\BackEnd-Grupo5\\ExtraHours.CORE\\ExtraHours.CORE.csproj"
+            "D:\\Trabajo_Cloud_Native\\ExtraHours.CORE\\ExtraHours.CORE.csproj": {
+              "projectPath": "D:\\Trabajo_Cloud_Native\\ExtraHours.CORE\\ExtraHours.CORE.csproj"
             }
           }
         }

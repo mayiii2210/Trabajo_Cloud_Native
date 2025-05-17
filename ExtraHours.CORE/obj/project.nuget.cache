@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/u/Zrg8gkOw=",
+  "dgSpecHash": "WEpp3IOI3gE=",
   "success": true,
-  "projectFilePath": "D:\\BackEnd-Grupo5\\ExtraHours.CORE\\ExtraHours.CORE.csproj",
+  "projectFilePath": "D:\\Trabajo_Cloud_Native\\ExtraHours.CORE\\ExtraHours.CORE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MAYE SALAS\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.3\\microsoft.entityframeworkcore.9.0.3.nupkg.sha512",
     "C:\\Users\\MAYE SALAS\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.3\\microsoft.entityframeworkcore.abstractions.9.0.3.nupkg.sha512",
